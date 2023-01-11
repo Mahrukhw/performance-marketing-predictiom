@@ -1,4 +1,4 @@
-# performance-marketing-predictiom
+# performance-marketing-prediction
 
 Data Science Challenge
 
